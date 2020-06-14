@@ -15,4 +15,4 @@ Modified from the Mac Black theme by MADCAP in gnome-look.org (https://www.gnome
   4. Click on the "Theme" drop-down menu in the "Appearance" tab and select "Simple-Black".
 
 <br>***External links:***<br>
-This theme can also be found at [pling.com](https://www.pling.com/p/1392734/) and [deviantart.com](https://www.deviantart.com/bishwaruppaul/art/Simple-Black-845208003).
+This theme can also be found at [deviantart.com](https://www.deviantart.com/bishwaruppaul/art/Simple-Black-845208003).
